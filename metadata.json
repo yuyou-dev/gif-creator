@@ -1,0 +1,5 @@
+{
+  "name": "SpriteMotionPro",
+  "description": "Turn static sprite sheets into animated GIFs instantly. Features AI-powered grid detection and real-time preview.",
+  "requestFramePermissions": []
+}
